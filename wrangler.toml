@@ -11,7 +11,7 @@ head_sampling_rate = 1
 
 [[workflows]]
 # name of your workflow
-name = "workflows-starter"
+name = "workflows-starter-cloudflare"
 
 # binding name env.MYWORKFLOW
 binding = "MY_WORKFLOW"
